@@ -1,5 +1,6 @@
 ﻿# Rating App (Fullstack)
 This repository contains my solution to the coding challenge provided by Roxiler Systems.
+
 **📌Project Review / Conclusion**
 
 The Rating App is a fullstack web application built using React (frontend), Node.js with Express (backend), and MySQL with Sequelize (database). The project successfully demonstrates core functionalities of a role-based system:
@@ -57,3 +58,4 @@ npm start
 - Pagination for large store/user lists.
 
 - Unit tests for APIs.
+
